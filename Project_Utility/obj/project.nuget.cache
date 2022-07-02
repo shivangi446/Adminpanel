@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wopggHMjkDZrShzsJe2vd/D87H99bni4nLb6Gzuj/gfVXQciu48CAl3ReDuAOG+hlyrB0m9Hwbb/qWeGPw0hbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\finexqa\\Sudocode\\AdminDashboardBnH\\Project_Utility\\Project_Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

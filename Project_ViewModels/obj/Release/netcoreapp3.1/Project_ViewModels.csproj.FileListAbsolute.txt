@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\bin\Release\netcoreapp3.1\Project_ViewModels.deps.json
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\bin\Release\netcoreapp3.1\Project_ViewModels.dll
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\bin\Release\netcoreapp3.1\Project_ViewModels.pdb
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\obj\Release\netcoreapp3.1\Project_ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\obj\Release\netcoreapp3.1\Project_ViewModels.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\obj\Release\netcoreapp3.1\Project_ViewModels.AssemblyInfo.cs
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\obj\Release\netcoreapp3.1\Project_ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\obj\Release\netcoreapp3.1\Project_ViewModels.dll
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_ViewModels\obj\Release\netcoreapp3.1\Project_ViewModels.pdb

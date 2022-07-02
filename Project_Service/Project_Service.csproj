@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
+    <PackageReference Include="RestSharp" Version="106.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Project_Infrastructure\Project_Infrastructure.csproj" />
+    <ProjectReference Include="..\Project_Utility\Project_Utility.csproj" />
+    <ProjectReference Include="..\Project_ViewModels\Project_ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

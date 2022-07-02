@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Infrastructure.deps.json
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Infrastructure.runtimeconfig.json
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Infrastructure.runtimeconfig.dev.json
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Infrastructure.dll
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Infrastructure.pdb
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Utility.dll
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\bin\Release\netcoreapp3.1\Project_Utility.pdb
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.AssemblyInfo.cs
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.csproj.CopyComplete
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.dll
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.pdb
+C:\Users\user\Downloads\finexqa\Sudocode\TestProject\Project_Infrastructure\obj\Release\netcoreapp3.1\Project_Infrastructure.genruntimeconfig.cache
